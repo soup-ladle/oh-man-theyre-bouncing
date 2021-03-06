@@ -1,2 +1,2 @@
-# oh-man-theyre-bouncing
-of course they are
+# p5.play-boilerplate
+Boiler plate for p5.play
